@@ -1,7 +1,7 @@
 {
   "name": "observ-enum",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Observable value that can only accept a preset list of values",
   "license": "MIT",
   "repository": "bendrucker/observ-enum",
