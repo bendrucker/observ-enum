@@ -1,0 +1,35 @@
+{
+  "name": "observ-enum",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Observable value that can only accept a preset list of values",
+  "license": "MIT",
+  "repository": "bendrucker/observ-enum",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "observ",
+    "observable",
+    "enum",
+    "enumerated"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "assert-array": "~1.0.0",
+    "assert-in": "~1.0.0",
+    "assert-ok": "~1.0.0",
+    "observ": "~0.2.0"
+  }
+}
