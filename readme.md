@@ -1,4 +1,4 @@
-# observ-enum [![Build Status](https://travis-ci.org/bendrucker/observ-enum.svg?branch=master)](https://travis-ci.org/bendrucker/observ-enum)
+# observ-enum [![Build Status](https://travis-ci.org/bendrucker/observ-enum.svg?branch=master)](https://travis-ci.org/bendrucker/observ-enum) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-enum.svg)](https://greenkeeper.io/)
 
 > Observable value that can only accept a preset list of values
 
